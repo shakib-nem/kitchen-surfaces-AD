@@ -20,13 +20,11 @@ learning with synthetic anomaly generation. Both methods were modified to accomm
 the industrial dataset, incorporating custom data loaders, augmented
 training strategies, and visualization techniques for qualitative analysis.
 Experiments were conducted using ResNet18 and ResNet50 backbones with and
-without blur preprocessing. Results indicate that PatchCore achieved higher ROCAUC
-(up to 89.06%) and precision, making it preferable for high-precision defect
-detection. In contrast, CutPaste exhibited higher recall, detecting a larger proportion
-of anomalies but at the cost of increased false positives.
-The findings demonstrate that PatchCore is better suited for applications where false
-positives must be minimized, while CutPaste is more effective in recall-prioritized
-scenarios. This work bridges the gap between cutting-edge anomaly detection research
+without blur preprocessing. Results indicate that PatchCore achieved a higher
+ROC-AUC (up to 89.06%) and precision, making it preferable for high-precision
+defect detection. Additionally, PatchCore produced clearer and more interpretable
+anomaly maps compared to CutPaste.
+This work bridges the gap between cutting-edge anomaly detection research
 and real-world industrial applications, providing insights into the deployment
 of deep learning-based quality control solutions in manufacturing.
 
