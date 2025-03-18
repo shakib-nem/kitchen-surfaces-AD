@@ -1,6 +1,8 @@
 # kitchen-surfaces-AD
 Anomaly Detection on Diverse Kitchen Surfaces: A Case Study Using Industry Data
 
+You can find the full Master thesis report under Master_Thesis.pdf
+
 ## Abstract
 
 Anomaly detection is crucial for maintaining quality control in industrial manufacturing,
