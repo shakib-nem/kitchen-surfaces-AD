@@ -1,7 +1,7 @@
 # kitchen-surfaces-AD
 Anomaly Detection on Diverse Kitchen Surfaces: A Case Study Using Industry Data
 
-##Abstract
+## Abstract
 
 Anomaly detection is crucial for maintaining quality control in industrial manufacturing,
 ensuring that defective products are identified before reaching consumers.
